@@ -1,0 +1,49 @@
+﻿
+
+<script type="text/javascript">
+    function ShowSavingInProgress(s, e) {
+        if (e.processOnServer)
+            MainProgressPanel.Show();
+    }
+
+    function OnFilterSuccess() {
+        MainProgressPanel.Hide();
+    }
+
+    function OnFilterFailure() {
+        alert("An error occured whilst trying to render the view.");
+        MainProgressPanel.Hide();
+    }
+
+</script>
+
+@using (Ajax.BeginForm("AdvancedCustomBindingPartial", "Demo", new AjaxOptions() { UpdateTargetId = "PageControlResult", OnSuccess = "OnFilterSuccess", OnFailure = "OnFilterFailure" }))
+{
+    <div>
+        <br />
+        <table>
+            <tr>
+                <td>
+                    @Html.DevExpress().Button(settings =>
+                        {
+                            settings.Name = "btnSubmit";
+                            settings.Text = "Get Data";
+                            settings.ClientSideEvents.Click = "ShowSavingInProgress";
+                            settings.UseSubmitBehavior = true;
+                        }).GetHtml()
+                </td>
+            </tr>
+        </table>
+        <br />
+        @Html.DevExpress().LoadingPanel(settings =>
+            {
+                settings.Name = "MainProgressPanel";
+                settings.Modal = true;
+                settings.Text = "Loading, Please wait....";
+            }).GetHtml()
+    </div>
+	<div id="PageControlResult"></div>
+}
+
+
+

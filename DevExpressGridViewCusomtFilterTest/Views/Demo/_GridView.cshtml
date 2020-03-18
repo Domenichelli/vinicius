@@ -1,0 +1,21 @@
+﻿@Html.DevExpress().GridView(
+    settings =>
+    {
+        settings.Name = "gridView";
+        settings.CallbackRouteValues = new { Controller = "Demo", Action = "AdvancedCustomBindingPartial" };
+        settings.CustomBindingRouteValuesCollection.Add(
+            GridViewOperationType.Paging,
+            new { Controller = "Demo", Action = "AdvancedCustomBindingPagingAction" }
+        );
+        settings.Settings.ShowFilterRow = true;
+        settings.Settings.ShowGroupPanel = true;
+        settings.Settings.ShowFilterBar = GridViewStatusBarMode.Visible;
+        settings.Settings.ShowFooter = true;
+        settings.SettingsSearchPanel.Visible = true;
+        settings.Width = Unit.Percentage(100);
+
+        settings.KeyFieldName = "appointmentid";
+        settings.Columns.Add("From");
+        settings.Columns.Add("policyid");
+        settings.Columns.Add("policynumber");
+    }).BindToCustomData(Model).GetHtml()

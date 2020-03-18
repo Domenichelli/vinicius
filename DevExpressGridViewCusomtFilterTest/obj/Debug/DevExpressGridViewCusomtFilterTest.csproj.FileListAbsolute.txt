@@ -1,0 +1,98 @@
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\DevExpressGridViewCusomtFilterTest.dll.config
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\DevExpressGridViewCusomtFilterTest.dll
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\DevExpressGridViewCusomtFilterTest.pdb
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\DotNetOpenAuth.AspNet.dll
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\DotNetOpenAuth.Core.dll
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\DotNetOpenAuth.OAuth.dll
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\DotNetOpenAuth.OpenId.dll
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\EntityFramework.dll
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\EntityFramework.SqlServer.dll
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\Microsoft.Web.Infrastructure.dll
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\Newtonsoft.Json.dll
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\System.Net.Http.Formatting.dll
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\System.Web.Helpers.dll
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\System.Web.Http.dll
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\System.Web.Http.WebHost.dll
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\System.Web.Mvc.dll
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\System.Web.Razor.dll
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\System.Web.WebPages.Deployment.dll
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\System.Web.WebPages.dll
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\System.Web.WebPages.Razor.dll
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\WebMatrix.Data.dll
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\WebMatrix.WebData.dll
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\DotNetOpenAuth.AspNet.xml
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\DotNetOpenAuth.Core.xml
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\DotNetOpenAuth.OAuth.xml
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\DotNetOpenAuth.OpenId.xml
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\EntityFramework.xml
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\EntityFramework.SqlServer.xml
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\Newtonsoft.Json.xml
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\System.Net.Http.Formatting.xml
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\System.Web.Helpers.xml
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\System.Web.Http.xml
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\System.Web.Http.WebHost.xml
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\System.Web.Mvc.xml
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\System.Web.Razor.xml
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\System.Web.WebPages.xml
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\System.Web.WebPages.Deployment.xml
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\System.Web.WebPages.Razor.xml
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\WebMatrix.Data.xml
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\bin\WebMatrix.WebData.xml
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\obj\Debug\DevExpressGridViewCusomtFilterTest.csprojResolveAssemblyReference.cache
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\obj\Debug\DevExpressGridViewCusomtFilterTest.dll
+c:\users\bernie\documents\visual studio 2013\Projects\DevExpressGridViewCusomtFilterTest\DevExpressGridViewCusomtFilterTest\obj\Debug\DevExpressGridViewCusomtFilterTest.pdb
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\DevExpressGridViewCusomtFilterTest.dll.config
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\DevExpressGridViewCusomtFilterTest.dll
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\DevExpressGridViewCusomtFilterTest.pdb
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\DotNetOpenAuth.AspNet.dll
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\DotNetOpenAuth.Core.dll
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\DotNetOpenAuth.OAuth.Consumer.dll
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\DotNetOpenAuth.OAuth.dll
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\DotNetOpenAuth.OpenId.dll
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\EntityFramework.dll
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\EntityFramework.SqlServer.dll
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\Microsoft.Web.Infrastructure.dll
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\Microsoft.Web.WebPages.OAuth.dll
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\Newtonsoft.Json.dll
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\System.Net.Http.Formatting.dll
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\System.Web.Helpers.dll
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\System.Web.Http.dll
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\System.Web.Http.WebHost.dll
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\System.Web.Mvc.dll
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\System.Web.Razor.dll
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\System.Web.WebPages.Deployment.dll
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\System.Web.WebPages.dll
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\System.Web.WebPages.Razor.dll
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\WebMatrix.Data.dll
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\WebMatrix.WebData.dll
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\DotNetOpenAuth.AspNet.xml
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\DotNetOpenAuth.Core.xml
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\DotNetOpenAuth.OAuth.xml
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\DotNetOpenAuth.OAuth.Consumer.xml
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\DotNetOpenAuth.OpenId.xml
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\EntityFramework.xml
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\EntityFramework.SqlServer.xml
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\Microsoft.Web.WebPages.OAuth.xml
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\Newtonsoft.Json.xml
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\System.Net.Http.Formatting.xml
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\System.Web.Helpers.xml
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\System.Web.Http.xml
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\System.Web.Http.WebHost.xml
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\System.Web.Mvc.xml
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\System.Web.Razor.xml
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\System.Web.WebPages.xml
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\System.Web.WebPages.Deployment.xml
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\System.Web.WebPages.Razor.xml
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\WebMatrix.Data.xml
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\bin\WebMatrix.WebData.xml
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\obj\Debug\DevExpressGridViewCusomtFilterTest.dll
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\obj\Debug\DevExpressGridViewCusomtFilterTest.pdb
+d:\support\CustomerProjects\!228_October12\T288155\T288155\DevExpressGridViewCusomtFilterTest\obj\Debug\DevExpressGridViewCusomtFilterTest.csprojResolveAssemblyReference.cache

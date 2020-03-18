@@ -1,0 +1,86 @@
+﻿@model string
+
+@functions{
+    public string TableKey { get; set; }
+    public int RecordCount {
+        get {return DatabaseGenerator.GetTable(TableKey).RecordCount; }
+    }
+}
+
+<script type="text/javascript">
+    var createTimer = -1;
+    var progressTimer = -1;
+    var tableKey = "@Model";
+
+    function CreateDatabase() {
+        $(".CreateDatabasePanel .text").html("Creating Database...");
+        $("#btnCreateDatabase").css("display", "none");
+        pbCreateDatabase.SetVisible(true);
+        CreateDatabaseAsync();
+        window.setInterval(GetRecordCountAsync, 1000);
+    }
+
+    function CreateDatabaseAsync() {
+        $.ajax({
+            type: 'POST',
+            url: '@DevExpressHelper.GetUrl(new { Controller = "DbGen", Action = "Create" })',
+            data: { tableKey: tableKey },
+            dataType: 'json',
+
+            success: function (created) {
+                window.clearTimeout(createTimer);
+                if (created) {
+                    window.clearInterval(progressTimer);
+                    document.location.reload();
+                } else {
+                    createTimer = window.setTimeout(CreateDatabaseAsync, 1000);
+                }
+            },
+
+            error: function (response) {
+                window.clearInterval(progressTimer);
+                alert(response.responseText);
+                document.location.reload();
+            }
+
+        });
+    }
+
+    function GetRecordCountAsync() {
+        $.ajax({
+            type: 'POST',
+            url: '@DevExpressHelper.GetUrl(new { Controller = "DbGen", Action = "GetRecordCount" })',
+            dataType: 'json',
+            data: { tableKey: tableKey },
+
+            success: function (count) {
+                pbCreateDatabase.SetPosition(count);
+            },
+
+            error: function (response) {
+                window.clearInterval(progressTimer);
+                alert(response.responseText);
+                document.location.reload();
+            }
+
+        });
+    }
+</script>
+
+<div class="CreateDatabasePanel">
+    @{TableKey = Model;}
+    <div class="text">
+        This demo requires a large database. To create a sample database, click the Create Database button below. This may take a few minutes.
+    </div>
+    <input id="btnCreateDatabase" type="button" value="Create Database" onclick="CreateDatabase()" />
+    @Html.DevExpress().ProgressBar(
+        settings =>
+        {
+            settings.Name = "pbCreateDatabase";
+            settings.ClientVisible = false;
+            settings.Width = Unit.Percentage(100);
+            settings.Properties.DisplayFormatString = "0";
+            settings.Properties.Minimum = 0;
+            settings.Properties.Maximum = RecordCount;
+        }).GetHtml()
+</div>
